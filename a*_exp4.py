@@ -1,13 +1,5 @@
 '''
                                             Experiment No : 4 Implementation of A* Algorithm.
-
-
-                                                                    @Learner: TE-CO
-                                                                    Name: Maaz Aslam Chogle
-                                                                    Roll No: 21CO19
-                                                                    Batch: 1
-                                                                    Academic Year: 2024
-                                                                    Sem - 6
                                                                                 
                                                                                           
 Theory:
