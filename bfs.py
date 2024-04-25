@@ -3,12 +3,8 @@
                                              Experiment No : 03
                                      AIM : Implementation of BFS Algorithmm
 
-                                                                                                        @Learner: TE-CO
-                                                                                                        Name: Maaz Aslam Chogle 
-                                                                                                        Roll No: 21CO19
-                                                                                                        Batch: 1
-                                                                                                        Academic Year: 2023- 2024
-                                                                                                        Sem - 6
+                                                                                                       
+                                                                                                      
                                                                                                         
 '''
 graph = {
